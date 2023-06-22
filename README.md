@@ -11,3 +11,4 @@ A beginner's guide to DevOps.
 - [How to Configure Load Balancer Using Nginx](https://medium.com/@srghimire061/how-to-configure-load-balancer-using-nginx-daee65546fff)
 - [How to Build Java Application Using Apache Maven](https://medium.com/@srghimire061/how-to-build-java-application-using-apache-maven-87eb5f15e051)
 - [How to Install and Configure Apache Tomcat Application Server to Deploy Java Web Applications](https://medium.com/@srghimire061/how-to-install-and-configure-apache-tomcat-application-server-to-deploy-java-web-applications-7f62efbc3952)
+- [A Beginner’s Guide to Git Version Control System](https://medium.com/@srghimire061/a-beginners-guide-to-git-version-control-system-386290f05e53)
