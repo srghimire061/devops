@@ -12,3 +12,4 @@ A beginner's guide to DevOps.
 - [How to Build Java Application Using Apache Maven](https://medium.com/@srghimire061/how-to-build-java-application-using-apache-maven-87eb5f15e051)
 - [How to Install and Configure Apache Tomcat Application Server to Deploy Java Web Applications](https://medium.com/@srghimire061/how-to-install-and-configure-apache-tomcat-application-server-to-deploy-java-web-applications-7f62efbc3952)
 - [A Beginner’s Guide to Git Version Control System](https://medium.com/@srghimire061/a-beginners-guide-to-git-version-control-system-386290f05e53)
+- [How to Create Jenkins CI/CD Pipeline to Automatic Deployment of JAVA Application on Tomcat Server](https://medium.com/@srghimire061/how-to-create-jenkins-ci-cd-pipeline-to-automatic-deployment-of-java-application-on-tomcat-server-3e64fddf97e0)
