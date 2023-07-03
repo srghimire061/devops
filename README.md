@@ -14,3 +14,5 @@ A beginner's guide to DevOps.
 - [A Beginner’s Guide to Git Version Control System](https://medium.com/@srghimire061/a-beginners-guide-to-git-version-control-system-386290f05e53)
 - [How to Create Jenkins CI/CD Pipeline to Automatic Deployment of JAVA Application on Tomcat Server](https://medium.com/@srghimire061/how-to-create-jenkins-ci-cd-pipeline-to-automatic-deployment-of-java-application-on-tomcat-server-3e64fddf97e0)
 - [How to Create Jenkins CI/CD Pipeline to Automatic Deployment of PHP | Python Application on Apache & Nginx Web Server](https://medium.com/@srghimire061/how-to-create-jenkins-ci-cd-pipeline-to-automatic-deployment-of-php-python-application-on-apache-d2d996fe7626)
+- [How to Configure Jenkins Master and Slave Nodes](https://medium.com/@srghimire061/how-to-configure-jenkins-master-and-slave-nodes-257f0755c804)
+- [How To Manage Users and Roles in Jenkins](https://medium.com/@srghimire061/how-to-manage-users-and-roles-in-jenkins-fe6a7a8be344)
