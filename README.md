@@ -16,3 +16,4 @@ A beginner's guide to DevOps.
 - [How to Create Jenkins CI/CD Pipeline to Automatic Deployment of PHP | Python Application on Apache & Nginx Web Server](https://medium.com/@srghimire061/how-to-create-jenkins-ci-cd-pipeline-to-automatic-deployment-of-php-python-application-on-apache-d2d996fe7626)
 - [How to Configure Jenkins Master and Slave Nodes](https://medium.com/@srghimire061/how-to-configure-jenkins-master-and-slave-nodes-257f0755c804)
 - [How To Manage Users and Roles in Jenkins](https://medium.com/@srghimire061/how-to-manage-users-and-roles-in-jenkins-fe6a7a8be344)
+- [How to Install and Configure Ansible and Run Ad-hoc Commands](https://medium.com/@srghimire061/how-to-install-and-configure-ansible-and-run-ad-hoc-commands-1ad49631f5c)
