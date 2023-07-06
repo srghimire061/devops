@@ -17,3 +17,5 @@ A beginner's guide to DevOps.
 - [How to Configure Jenkins Master and Slave Nodes](https://medium.com/@srghimire061/how-to-configure-jenkins-master-and-slave-nodes-257f0755c804)
 - [How To Manage Users and Roles in Jenkins](https://medium.com/@srghimire061/how-to-manage-users-and-roles-in-jenkins-fe6a7a8be344)
 - [How to Install and Configure Ansible and Run Ad-hoc Commands](https://medium.com/@srghimire061/how-to-install-and-configure-ansible-and-run-ad-hoc-commands-1ad49631f5c)
+- [Writing Ansible Playbook to Deploy Web Server](https://medium.com/@srghimire061/writing-ansible-playbook-to-deploy-web-server-57c1a85d3dd4)
+  
