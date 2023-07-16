@@ -20,4 +20,4 @@ A beginner's guide to DevOps.
 - [Writing Ansible Playbook to Deploy Web Server](https://medium.com/@srghimire061/writing-ansible-playbook-to-deploy-web-server-57c1a85d3dd4)
 - [How to Create a DevOps CI/CD Pipeline for Java Project Using Git, Jenkins, Ansible & Tomcat](https://medium.com/@srghimire061/how-to-create-a-devops-ci-cd-pipeline-for-java-project-using-git-jenkins-ansible-tomcat-93cf0c9a84ae)
 - [How to Install and Configure Docker](https://medium.com/@srghimire061/how-to-install-and-configure-docker-b6c4a0dda05f)
-  
+- [How to Deploy a Java Application on Docker Container Using CI/CD Pipeline](https://medium.com/@srghimire061/how-to-deploy-a-java-application-on-docker-container-using-ci-cd-pipeline-8b30c79fb1fe)
