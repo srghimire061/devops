@@ -24,3 +24,4 @@ A beginner's guide to DevOps.
 - [CI/CD Pipeline for Deploying Java Web Application on Docker Using Ansible](https://medium.com/@srghimire061/ci-cd-pipeline-for-deploying-java-web-application-on-docker-using-ansible-2562b003cc3f)
 - [How to Install Kubernetes on Master and Worker Nodes](https://medium.com/@srghimire061/how-to-install-kubernetes-on-master-and-worker-nodes-ec2f6dabdbdd)
 - [How to Install and Configure Nagios Monitoring Tool](https://medium.com/@srghimire061/how-to-install-and-configure-nagios-monitoring-tool-c8db7391eebf)
+- [How to Launch AWS EC2 Instance](https://medium.com/@srghimire061/how-to-launch-aws-ec2-instance-daacb7c2c26f)
