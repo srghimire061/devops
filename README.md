@@ -25,3 +25,4 @@ A beginner's guide to DevOps.
 - [How to Install Kubernetes on Master and Worker Nodes](https://medium.com/@srghimire061/how-to-install-kubernetes-on-master-and-worker-nodes-ec2f6dabdbdd)
 - [How to Install and Configure Nagios Monitoring Tool](https://medium.com/@srghimire061/how-to-install-and-configure-nagios-monitoring-tool-c8db7391eebf)
 - [How to Launch AWS EC2 Instance](https://medium.com/@srghimire061/how-to-launch-aws-ec2-instance-daacb7c2c26f)
+- [How to Launch an EC2 Instance Using Terraform](https://medium.com/@srghimire061/how-to-launch-an-ec2-instance-using-terraform-87883dfd1886)
