@@ -27,3 +27,4 @@ A beginner's guide to DevOps.
 - [How to Launch AWS EC2 Instance](https://medium.com/@srghimire061/how-to-launch-aws-ec2-instance-daacb7c2c26f)
 - [How to Launch an EC2 Instance Using Terraform](https://medium.com/@srghimire061/how-to-launch-an-ec2-instance-using-terraform-87883dfd1886)
 - [How to Install and Configure GitLab CE on CentOS 8/7](https://medium.com/@srghimire061/how-to-install-and-configure-gitlab-ce-on-centos-8-7-dcc5da807e0f)
+- [OpenShift — Deploying Containerized Applications](https://medium.com/@srghimire061/openshift-deploying-containerized-applications-607487ecc641)
