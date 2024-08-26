@@ -29,3 +29,4 @@ A beginner's guide to DevOps.
 - [How to Install and Configure GitLab CE on CentOS 8/7](https://medium.com/@srghimire061/how-to-install-and-configure-gitlab-ce-on-centos-8-7-dcc5da807e0f)
 - [OpenShift — Deploying Containerized Applications](https://medium.com/@srghimire061/openshift-deploying-containerized-applications-607487ecc641)
 - [How to deploy a PHP website (or application) to IIS Windows Server](https://medium.com/@srghimire061/how-to-deploy-a-php-website-or-application-to-iis-windows-server-bf91a32b91ad)
+- [Git Glossary: Key Terms Every Developer Should Know](https://medium.com/@srghimire061/git-glossary-key-terms-every-developer-should-know-f8bac14e3794)
