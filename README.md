@@ -31,3 +31,4 @@ A beginner's guide to DevOps.
 - [How to deploy a PHP website (or application) to IIS Windows Server](https://medium.com/@srghimire061/how-to-deploy-a-php-website-or-application-to-iis-windows-server-bf91a32b91ad)
 - [Git Glossary: Key Terms Every Developer Should Know](https://medium.com/@srghimire061/git-glossary-key-terms-every-developer-should-know-f8bac14e3794)
 - [SQL Query Optimization Techniques](https://medium.com/@srghimire061/sql-query-optimization-techniques-b9de937dafa7)
+- [ASP.NET Core Journey: Build Scalable and Secure Applications](https://medium.com/@srghimire061/asp-net-core-journey-build-scalable-and-secure-applications-182a1143d3e6)
