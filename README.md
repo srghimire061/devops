@@ -32,3 +32,4 @@ A beginner's guide to DevOps.
 - [Git Glossary: Key Terms Every Developer Should Know](https://medium.com/@srghimire061/git-glossary-key-terms-every-developer-should-know-f8bac14e3794)
 - [SQL Query Optimization Techniques](https://medium.com/@srghimire061/sql-query-optimization-techniques-b9de937dafa7)
 - [ASP.NET Core Journey: Build Scalable and Secure Applications](https://medium.com/@srghimire061/asp-net-core-journey-build-scalable-and-secure-applications-182a1143d3e6)
+- [Why .NET Aspire is a Game-Changer for Cloud-Native Development in .NET 9](https://medium.com/@srghimire061/why-net-aspire-is-a-game-changer-for-cloud-native-development-in-net-9-7183be8db35e)
