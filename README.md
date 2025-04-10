@@ -33,3 +33,4 @@ A beginner's guide to DevOps.
 - [SQL Query Optimization Techniques](https://medium.com/@srghimire061/sql-query-optimization-techniques-b9de937dafa7)
 - [ASP.NET Core Journey: Build Scalable and Secure Applications](https://medium.com/@srghimire061/asp-net-core-journey-build-scalable-and-secure-applications-182a1143d3e6)
 - [Why .NET Aspire is a Game-Changer for Cloud-Native Development in .NET 9](https://medium.com/@srghimire061/why-net-aspire-is-a-game-changer-for-cloud-native-development-in-net-9-7183be8db35e)
+- [Automating ASP.NET Core 9.0 Deployment with a PowerShell Script](https://medium.com/@srghimire061/automating-asp-net-core-9-0-deployment-with-a-powershell-script-4ec9c19f03e1)
