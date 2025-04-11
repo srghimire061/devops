@@ -35,3 +35,4 @@ A beginner's guide to DevOps.
 - [Why .NET Aspire is a Game-Changer for Cloud-Native Development in .NET 9](https://medium.com/@srghimire061/why-net-aspire-is-a-game-changer-for-cloud-native-development-in-net-9-7183be8db35e)
 - [Automating ASP.NET Core 9.0 Deployment with a PowerShell Script](https://medium.com/@srghimire061/automating-asp-net-core-9-0-deployment-with-a-powershell-script-4ec9c19f03e1)
 - [SQL Interview Questions](https://medium.com/@srghimire061/sql-interview-questions-79e8d7da9e5a)
+- [Automating ASP.NET Core 9.0 Deployment on a Remote Server Using PowerShell](https://medium.com/@srghimire061/automating-asp-net-core-9-0-deployment-on-a-remote-server-using-powershell-c0095f1931d9)
