@@ -39,3 +39,5 @@ A beginner's guide to DevOps.
 - [Software Development in 2026: Adapt or Fall Behind](https://medium.com/@srghimire061/software-development-in-2026-adapt-or-fall-behind-1b0217b97596)
 - [Launch your web app in Incognito mode directly from Visual Studio](https://medium.com/@srghimire061/launch-your-web-app-in-incognito-mode-directly-from-visual-studio-ab80c40333fe)
 - [OWASP Top 10 for .NET Developers - Part 1: Preventing Broken Access Control](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-1-preventing-broken-access-control-8ce4e40a818f)
+- [OWASP Top 10 for .NET Developers - Part 2: Preventing Cryptographic Failures](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-2-preventing-cryptographic-failures-953b84455d87)
+- [OWASP Top 10 for .NET Developers -Part 3: Preventing Injection Attacks](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-3-preventing-injection-attacks-c1e892b8b57e)
