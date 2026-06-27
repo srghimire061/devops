@@ -41,3 +41,5 @@ A beginner's guide to DevOps.
 - [OWASP Top 10 for .NET Developers - Part 1: Preventing Broken Access Control](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-1-preventing-broken-access-control-8ce4e40a818f)
 - [OWASP Top 10 for .NET Developers - Part 2: Preventing Cryptographic Failures](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-2-preventing-cryptographic-failures-953b84455d87)
 - [OWASP Top 10 for .NET Developers -Part 3: Preventing Injection Attacks](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-3-preventing-injection-attacks-c1e892b8b57e)
+- [OWASP Top 10 for .NET Developers -Part 4: Preventing Insecure Design](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-4-preventing-insecure-design-6361281edbbe)
+- [OWASP Top 10 for .NET Developers - Part 5: Preventing Security Misconfiguration](https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-5-preventing-security-misconfiguration-578f5802141e)
